@@ -1,6 +1,6 @@
 # US Accidents Data Analysis
 In this project, I analysed the US Accidents Dataset (2.8 million accident), which had information about 2.8 million 
-accidents listed in US. The dataset has 2.8 million rows and 47 columns. 
+accidents listed in US.
 
 To see the full version with rendered graphs please click on the [here](https://nbviewer.org/github/matthewmachnowski/us-accidents-analysis/blob/main/us_accidents_analysis.ipynb).
 
